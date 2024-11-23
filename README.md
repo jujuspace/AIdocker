@@ -7,7 +7,7 @@ A production-ready solution that combines Docker containerization with YOLO (You
 ![Sample Dog Input](share/sample_dog.jpg)
 
 ### Output Image (with Detection)
-![Detection Result](share/output.jpg)
+![Detection Result](share/sample_output.jpg)
 
 
 ## Features
