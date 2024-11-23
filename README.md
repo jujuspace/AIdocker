@@ -1,6 +1,14 @@
 # AI-Powered Object Detection with Docker
 
 A production-ready solution that combines Docker containerization with YOLO (You Only Look Once) AI model for object detection. This project demonstrates how to effectively deploy and run AI models in containerized environments, making it ideal for both development and production deployments.
+## Example Images
+
+### Input Image
+![Sample Dog Input](share/sample_dog.jpg)
+
+### Output Image (with Detection)
+![Detection Result](share/output.jpg)
+
 
 ## Features
 
