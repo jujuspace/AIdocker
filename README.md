@@ -132,13 +132,3 @@ This project is open-source and available under the MIT License.
 - Docker for containerization
 - NVIDIA for GPU support
 ```
-
-This README provides:
-1. Clear installation instructions
-2. Usage guidelines
-3. Project structure
-4. Configuration details
-5. Troubleshooting steps
-6. All necessary information to get started with the project
-
-Would you like me to modify any section or add more specific details?
