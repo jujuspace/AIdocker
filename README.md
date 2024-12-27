@@ -3,7 +3,10 @@
 A production-ready solution that combines Docker containerization with YOLO (You Only Look Once) AI model for object detection. This project demonstrates how to effectively deploy and run AI models in containerized environments, making it ideal for both development and production deployments.
 
 ## Demo Video
-[![Demo Video](https://img.youtube.com/vi/dJ-MKednFdY/0.jpg)](https://youtu.be/dJ-MKednFdY?si=BkotcaPBNE7lH1Ii)
+<video width="640" height="360" controls>
+  <source src="https://www.youtube.com/embed/dJ-MKednFdY" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Example Images
 
